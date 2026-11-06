@@ -1,0 +1,14 @@
+evidence/*
+!evidence/.gitkeep
+reports/*
+!reports/.gitkeep
+findings/findings.csv
+inventory/accounts.json
+inventory/oauth_grants.json
+*.csv
+__pycache__/
+*.pyc
+inventory/deprecated_identifiers.json
+BUILD-IT-YOURSELF.md
+START-HERE.md
+docs/phase-1-control-selection.md

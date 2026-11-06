@@ -1,0 +1,16 @@
+[
+  {
+    "system": "Google Workspace",
+    "device": null,
+    "last_seen": null,
+    "recognised": null,
+    "notes": "myaccount.google.com > Security > Your devices"
+  },
+  {
+    "system": "GitHub",
+    "device": null,
+    "last_seen": null,
+    "recognised": null,
+    "notes": "github.com/settings/sessions"
+  }
+]

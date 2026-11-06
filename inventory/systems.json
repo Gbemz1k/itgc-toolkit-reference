@@ -1,0 +1,26 @@
+[
+  {
+    "system": "Google Workspace",
+    "criticality": "High",
+    "backup_method": null,
+    "restore_last_tested": null,
+    "restore_result": null,
+    "owner": "Gbeminiyi Otusajo"
+  },
+  {
+    "system": "GitHub",
+    "criticality": "High",
+    "backup_method": null,
+    "restore_last_tested": null,
+    "restore_result": null,
+    "owner": "Gbeminiyi Otusajo"
+  },
+  {
+    "system": "Local workstation",
+    "criticality": "High",
+    "backup_method": null,
+    "restore_last_tested": null,
+    "restore_result": null,
+    "owner": "Gbeminiyi Otusajo"
+  }
+]

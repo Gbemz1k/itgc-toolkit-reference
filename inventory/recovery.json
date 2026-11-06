@@ -1,0 +1,26 @@
+[
+  {
+    "system": "Google Workspace",
+    "recovery_email": null,
+    "recovery_phone": null,
+    "owned_by_account_holder": null,
+    "last_verified": null,
+    "notes": "myaccount.google.com > Security > How you sign in / Recovery"
+  },
+  {
+    "system": "GitHub",
+    "recovery_email": null,
+    "recovery_phone": null,
+    "owned_by_account_holder": null,
+    "last_verified": null,
+    "notes": "github.com/settings/emails and /settings/security"
+  },
+  {
+    "system": "LinkedIn",
+    "recovery_email": null,
+    "recovery_phone": null,
+    "owned_by_account_holder": null,
+    "last_verified": null,
+    "notes": ""
+  }
+]
